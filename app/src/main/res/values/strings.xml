@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_location">Search Location...</string>
+    <string name="o_c">°C</string>
+    <string name="visibility">Visibility</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="uv_index">UV Index</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="day_after_tomorrow">Day After Tomorrow</string>
+    <string name="created_by_joyjit_bhandari_n_android_developer">Created by Joyjit Bhandari \n Android Developer</string>
+</resources>
